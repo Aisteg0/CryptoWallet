@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  CryptoWallet
+
+  Created by Михаил Ганин on 29.05.2025.
+  
+*/
+
+"home" = "Главная";
+"statistic" = "Статистика";
+"wallet" = "Кошелек";
+"info" = "Инфо";
+"person" = "Персона";
+
